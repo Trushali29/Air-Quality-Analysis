@@ -15,7 +15,7 @@ To Tackle with this AirPure Innovations is a startup born out of the air quality
 
 ## **Dataset Information**
 
-**Dataset:** Day-wise, State-wise Air Quality Index (AQI) of Major Cities and Towns in India
+**Dataset: Day-wise, State-wise Air Quality Index (AQI) of Major Cities and Towns in India**
 
 This dataset contains daily Air Quality Index (AQI) values for various cities and towns across different states in India. It records air quality trends to help analyze pollution levels over time and across regions.
 
@@ -34,7 +34,7 @@ Daily observations (Specify actual date range if known, e.g., Jan 2022– May 20
 | City | Text | The name of the city or town where the AQI was measured |
 | AQI | Numeric | The Air Quality Index value indicating the level of air pollution for that day |
 
-**State, District, and Disease-wise Cases and Deaths reported due to Outbreak of Diseases as per Weekly reports under IDSP**
+**Dataset: State, District, and Disease-wise Cases and Deaths reported due to Outbreak of Diseases as per Weekly reports under IDSP**
 
 This dataset records weekly outbreak data of various diseases across Indian states and districts, as collected under the Integrated Disease Surveillance Programme (IDSP). It includes the number of reported cases and deaths for specific diseases during each epidemiological week. This data helps monitor and respond to public health threats.
 
@@ -53,7 +53,7 @@ This dataset records weekly outbreak data of various diseases across Indian stat
 | No. of Deaths | Numeric | Total number of deaths reported due to the disease in the same week and district |
 | Status  | Text  | Whether the Illness was Reported, Reported Late, Reported in Same Week or Previous Week Follow up  |
 
-**State, Vehicle Class and Fuel Type-wise Total Number of Vehicles Registered in Each Month in India**
+**Dataset: State, Vehicle Class and Fuel Type-wise Total Number of Vehicles Registered in Each Month in India**
 
 This dataset contains monthly records of the number of vehicles registered in India, categorized by state, vehicle class (e.g., two-wheeler, car, bus), and fuel type (e.g., petrol, diesel, electric). It provides insights into vehicle registration trends across different states and fuel categories over time.
 
@@ -67,7 +67,7 @@ This dataset contains monthly records of the number of vehicles registered in In
 | Fuel Type | Text | Type of fuel the vehicle uses (e.g., Petrol, Diesel, Electric, CNG) |
 | Number of Vehicles | Numeric | Total number of vehicles registered under the given category in that month |
 
-**Population Projection of India: State- and Gender-wise Yearly Projected Urban Population (2011-2036)**
+**Dataset: Population Projection of India: State- and Gender-wise Yearly Projected Urban Population (2011-2036)**
 
 This dataset provides projected urban population figures for Indian states, disaggregated by gender (male and female) for each year from 2011 to 2036\. These projections are based on estimates from official census data and demographic models, and are intended for use in urban planning, resource allocation, and policy formulation.
 
@@ -80,8 +80,6 @@ This dataset provides projected urban population figures for Indian states, disa
 | Male Population | Numeric | Projected urban male population for the specified state and year |
 | Female Population | Numeric | Projected urban female population for the specified state and year |
 | Total Population | Numeric | Sum of projected male and female urban population for that state and year |
-
- 
 
 ## **PRIMARY QUESTIONS**
 
