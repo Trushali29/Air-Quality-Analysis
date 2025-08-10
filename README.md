@@ -221,13 +221,12 @@ While other tier 1 and metro cities have populations of more than 1 Million ther
 | PureLogic Labs AQI app | 3.8 | 980 | 1L+ |
 | IQ Air Visual | 4.6  | 3.23L | 50L+ |
 
-Google Trends \- 
-
+Google Trends- 
 1. [Term: Todays AQI](https://trends.google.com/trends/explore?cat=63&geo=IN&q=Today%20AQI&hl=en-GB)   
 2. [Term: AQI near me](https://trends.google.com/trends/explore?geo=IN&q=air%20quality%20near%20me)  
      
-   As per the problem statement the term AQI search in India was increased when a public figure named bryan johnson has left the podcast mid way due to bad AQI according to this report there is a surge in the web search of term AQI in each year between October to December.  
-   Related queries they have search like   
+As per the problem statement the term AQI search in India was increased when a biotech entrepreneur bryan johnson has left the podcast mid way due to bad AQI. Due to which there is a surge in the web for term AQI.  
+Related queries users have searched   
 * weather aqi  
 * aqi delhi today  
 * air quality index delhi  
