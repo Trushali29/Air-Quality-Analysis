@@ -1,12 +1,13 @@
 # Conduct Product Market Fit Research for Air Purifier Development Using AQI Analytics
 
-This is the Resume Project for conducting a product market fit analysis on air purifiers. This challenge is powered by Codebasics platform and sponsored by dataful platform for providing data to gain insights.
+This is the Resume Project Challenge for conducting a product market fit analysis on air purifiers. This challenge is powered by Codebasics platform and sponsored by dataful platform.
+
 
 ## **PROBLEM STATEMENT** 
 
 According to the IQ air reports around the world there are 20 air polluted urban cities which have higher AQI index out of which 14 cities are from India.
 
-To Tackle with this AirPure Innovations is a startup born out of the air quality crisis in India. The company is in the early stages of the product development and is unsure whether there is a strong, sustained demand for its air purifier product.
+To tackle with this AirPure Innovations is a startup born out of the air quality crisis in India. The company is in the early stages of the product development and is unsure whether there is a strong, sustained demand for its air purifier product.
 
  They want to understand the patterns of the AQI across Indian states before committing to Production and R\&D by answering the critical questions: 
 
@@ -17,7 +18,7 @@ To Tackle with this AirPure Innovations is a startup born out of the air quality
 
 ## **Dataset Information**
 
-**Dataset: Day-wise, State-wise Air Quality Index (AQI) of Major Cities and Towns in India**
+### **Dataset: Day-wise, State-wise Air Quality Index (AQI) of Major Cities and Towns in India**
 
 This dataset contains daily Air Quality Index (AQI) values for various cities and towns across different states in India. It records air quality trends to help analyze pollution levels over time and across regions.
 
@@ -36,7 +37,7 @@ Daily observations (Specify actual date range if known, e.g., Jan 2022– May 20
 | City | Text | The name of the city or town where the AQI was measured |
 | AQI | Numeric | The Air Quality Index value indicating the level of air pollution for that day |
 
-**Dataset: State, District, and Disease-wise Cases and Deaths reported due to Outbreak of Diseases as per Weekly reports under IDSP**
+### **Dataset: State, District, and Disease-wise Cases and Deaths reported due to Outbreak of Diseases as per Weekly reports under IDSP**
 
 This dataset records weekly outbreak data of various diseases across Indian states and districts, as collected under the Integrated Disease Surveillance Programme (IDSP). It includes the number of reported cases and deaths for specific diseases during each epidemiological week. This data helps monitor and respond to public health threats.
 
@@ -55,7 +56,7 @@ This dataset records weekly outbreak data of various diseases across Indian stat
 | No. of Deaths | Numeric | Total number of deaths reported due to the disease in the same week and district |
 | Status  | Text  | Whether the Illness was Reported, Reported Late, Reported in Same Week or Previous Week Follow up  |
 
-**Dataset: State, Vehicle Class and Fuel Type-wise Total Number of Vehicles Registered in Each Month in India**
+### **Dataset: State, Vehicle Class and Fuel Type-wise Total Number of Vehicles Registered in Each Month in India**
 
 This dataset contains monthly records of the number of vehicles registered in India, categorized by state, vehicle class (e.g., two-wheeler, car, bus), and fuel type (e.g., petrol, diesel, electric). It provides insights into vehicle registration trends across different states and fuel categories over time.
 
@@ -69,7 +70,7 @@ This dataset contains monthly records of the number of vehicles registered in In
 | Fuel Type | Text | Type of fuel the vehicle uses (e.g., Petrol, Diesel, Electric, CNG) |
 | Number of Vehicles | Numeric | Total number of vehicles registered under the given category in that month |
 
-**Dataset: Population Projection of India: State- and Gender-wise Yearly Projected Urban Population (2011-2036)**
+### **Dataset: Population Projection of India: State- and Gender-wise Yearly Projected Urban Population (2011-2036)**
 
 This dataset provides projected urban population figures for Indian states, disaggregated by gender (male and female) for each year from 2011 to 2036\. These projections are based on estimates from official census data and demographic models, and are intended for use in urban planning, resource allocation, and policy formulation.
 
@@ -87,15 +88,17 @@ This dataset provides projected urban population figures for Indian states, disa
 
 ### **List the top 5 and bottom 5 areas with highest average AQI. (Consider areas which contains data from last 6 months: December 2024 to May 2025\)**
 
+<img width="1315" height="417" alt="image" src="https://github.com/user-attachments/assets/d8e857ba-6703-4b02-b4ba-93818372b094" />
+
+
 **Bottom 5 areas**
 
-- It shows areas with lowest AQI that can be 33.31 which if of state Tirunelveli 
+- It shows areas with lowest AQI, Tirunelveli has one of the lowest AQI of 33.31.
 
-In the top 5 areas it shows Byrnihat (Meghalaya) with 284.19 aqi, Delhi as the second position with 238.92.   
-The reason for **Bynihat to be on top is due to its industrialization environment.** There are many industries of machinery, distillery, cement and steel. Also its geographical environment location on the Assam-Meghalaya border, with its unique topography, consists of a low pressure zone which traps pollutants and makes it unable to disperse.
+In the top 5 areas it shows Byrnihat (Meghalaya) with 284.19 AQI, Delhi as the second position with 238.92.   
+The reason for **Byrnihat on top is due to its industrialization environment.** There are many industries of machinery, distillery, cement and steel. Also its geographical environment location on the Assam-Meghalaya border, with its unique topography, consists of a low pressure zone which traps pollutants and makes it unable to disperse.
 
-**Reasons for high AQI** 
-
+**Reasons for High AQI Levels** 
 - Seasonal stubble Burning in agricultural areas   
 - Industrial activity  
 - Geographical location factor low air pressure which can trap pollutants in air  
@@ -105,15 +108,18 @@ The AQI in Chamarajanagar, Vijayapura, Madikeri (Karnataka), and Tirunelveli (Ta
 
 ### **List out top 2 and bottom 2 prominent pollutants for each state of southern India.  (Consider data post covid: 2022 onwards)**
 
-PM10 and PM2.5 stand out as the top pollutants across southern states while few other pollutants such NH3, NO2, O3, and SO2. The factors could be more vehicles and construction and demolition duct and debris. 
+<img width="1187" height="360" alt="image" src="https://github.com/user-attachments/assets/52507248-930d-4d03-9d10-13e562a53883" />
+
+PM10 and PM2.5 stand out as the top pollutants across southern states while few other pollutants such NH3, NO2, O3, and SO2. The factors could be more number of vehicles, construction and demolition, duct and debris. 
 
 ### **Does AQI improve on weekends vs weekdays in Indian metro cities (Delhi, Mumbai, Chennai, Kolkata, Bengaluru, Hyderabad, Ahmedabad, Pune)?(Consider data from last 1 year)**
 
-There is a slight improvement in AQI for each metro city with no huge difference between AQI on weekdays and weekends. 
+<img width="1145" height="685" alt="image" src="https://github.com/user-attachments/assets/ee3c5fc8-e1c7-4b20-b53f-337a7fa99399" />
 
-**Monthly chart of each states**   
+There is a slight drop of AQI from March to May ( due to holiday season ), August to October and December. Since in these months most people either go for a vacation, and other seasonal factors.
+
+**Insights based on the Monthly chart of each states**   
 It shows months from April to mid \- October and seasonal time for monsoon where AQI has a sudden drop which is normal for every state.
-
 During the month of Oct \- Jan the AQI is at its peak the factors could be harvesting seasonal in which stubble burning is done around those states. 
 
 ### **Which months consistently show the worst air quality across Indian states (Consider top 10 states with high distinct areas)**
