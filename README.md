@@ -124,6 +124,8 @@ During the month of Oct \- Jan the AQI is at its peak the factors could be harve
 
 ### **Which months consistently show the worst air quality across Indian states (Consider top 10 states with high distinct areas)**
 
+<img width="1297" height="725" alt="image" src="https://github.com/user-attachments/assets/30567ea7-adbb-4b6a-b404-4f9dbccc9234" />
+
 Months of January, February and December show signs of high AQI. While November is a leading month in most all those states. 
 
 Months ranging from Mid-April or May till September we can see there is a sudden drop of the AQI for this a dominant factor can be a monsoon season. 
