@@ -220,6 +220,8 @@ In 2021, over 700,000 deaths among children under five years of age were attribu
 
 #### **What is the relationship between a city’s population size and its average AQI — do larger cities always suffer from worse air quality? (Consider 2024 population and AQI data for this)**
 
+<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/1c3fce98-e14a-4487-bc2d-0e8e5acb3759" />
+
 As the population increases most of the states have maintained AQI below 150\. Except Delhi its population is upto 13K and shows high AQI levels.  
 In spite of Delhi having adopted EV fuels there must be a lack of implementation of the plan. 
 
