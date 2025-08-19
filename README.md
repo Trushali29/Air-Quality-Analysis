@@ -86,14 +86,10 @@ This dataset provides projected urban population figures for Indian states, disa
 
 ## **PRIMARY QUESTIONS**
 
-### **List the top 5 and bottom 5 areas with highest average AQI. (Consider areas which contains data from last 6 months: December 2024 to May 2025\)**
-
-<img width="1315" height="417" alt="image" src="https://github.com/user-attachments/assets/d8e857ba-6703-4b02-b4ba-93818372b094" />
-
+#### **List the top 5 and bottom 5 areas with highest average AQI. (Consider areas which contains data from last 6 months: December 2024 to May 2025\)**
 
 **Bottom 5 areas**
-
-- It shows areas with lowest AQI, Tirunelveli has one of the lowest AQI of 33.31.
+It shows areas with lowest AQI, Tirunelveli has one of the lowest AQI of 33.31.
 
 In the top 5 areas it shows Byrnihat (Meghalaya) with 284.19 AQI, Delhi as the second position with 238.92.   
 The reason for **Byrnihat on top is due to its industrialization environment.** There are many industries of machinery, distillery, cement and steel. Also its geographical environment location on the Assam-Meghalaya border, with its unique topography, consists of a low pressure zone which traps pollutants and makes it unable to disperse.
@@ -106,15 +102,15 @@ The reason for **Byrnihat on top is due to its industrialization environment.** 
 
 The AQI in Chamarajanagar, Vijayapura, Madikeri (Karnataka), and Tirunelveli (Tamil Nadu), including the border area of Palkalaiperur, is likely low due to a combination of factors such as **lower industrial activity, less population density, and potentially more green cover**. These areas are not major industrial hubs and have a relatively smaller population compared to larger cities, which contributes to better air quality.
 
-### **List out top 2 and bottom 2 prominent pollutants for each state of southern India.  (Consider data post covid: 2022 onwards)**
+<img width="800" height="417" src="https://github.com/user-attachments/assets/d8e857ba-6703-4b02-b4ba-93818372b094" />
 
-<img width="1187" height="360" alt="image" src="https://github.com/user-attachments/assets/52507248-930d-4d03-9d10-13e562a53883" />
+#### **List out top 2 and bottom 2 prominent pollutants for each state of southern India.  (Consider data post covid: 2022 onwards)**
 
 PM10 and PM2.5 stand out as the top pollutants across southern states while few other pollutants such NH3, NO2, O3, and SO2. The factors could be more number of vehicles, construction and demolition, duct and debris. 
 
-### **Does AQI improve on weekends vs weekdays in Indian metro cities (Delhi, Mumbai, Chennai, Kolkata, Bengaluru, Hyderabad, Ahmedabad, Pune)?(Consider data from last 1 year)**
+<img width="800" height="360" alt="image" src="https://github.com/user-attachments/assets/52507248-930d-4d03-9d10-13e562a53883" />
 
-<img width="1145" height="685" alt="image" src="https://github.com/user-attachments/assets/ee3c5fc8-e1c7-4b20-b53f-337a7fa99399" />
+#### **Does AQI improve on weekends vs weekdays in Indian metro cities (Delhi, Mumbai, Chennai, Kolkata, Bengaluru, Hyderabad, Ahmedabad, Pune)?(Consider data from last 1 year)**
 
 There is a slight drop of AQI from March to May ( due to holiday season ), August to October and December. Since in these months most people either go for a vacation, and other seasonal factors.
 
@@ -122,9 +118,9 @@ There is a slight drop of AQI from March to May ( due to holiday season ), Augus
 It shows months from April to mid \- October and seasonal time for monsoon where AQI has a sudden drop which is normal for every state.
 During the month of Oct \- Jan the AQI is at its peak the factors could be harvesting seasonal in which stubble burning is done around those states. 
 
-### **Which months consistently show the worst air quality across Indian states (Consider top 10 states with high distinct areas)**
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/ee3c5fc8-e1c7-4b20-b53f-337a7fa99399" />
 
-<img width="1297" height="725" alt="image" src="https://github.com/user-attachments/assets/30567ea7-adbb-4b6a-b404-4f9dbccc9234" />
+#### **Which months consistently show the worst air quality across Indian states (Consider top 10 states with high distinct areas)**
 
 Months of January, February and December show signs of high AQI. While November is a leading month in most all those states. 
 
@@ -134,25 +130,33 @@ After the monsoon season, harvesting seasons start for various states in differe
 
 As we see in the line chart there is only a slight difference between weekday and weekend AQI levels.
 
-### **For the city of Bengaluru, how many days fell under each air quality category (e.g., Good, Moderate, Poor, etc.) between March and May 2025?**
+<img width="800" height="650" alt="image" src="https://github.com/user-attachments/assets/30567ea7-adbb-4b6a-b404-4f9dbccc9234" />
+
+#### **For the city of Bengaluru, how many days fell under each air quality category (e.g., Good, Moderate, Poor, etc.) between March and May 2025?**
 
 In the Pie chart we see that Bengaluru has 13 days with moderate level AQI and 48 days with Satisfactory level AQI. 
 
-### **List the top two most reported disease illnesses in each state over the past three years, along with the corresponding average Air Quality Index (AQI) for that period.**
+<img width="600" height="502" alt="image" src="https://github.com/user-attachments/assets/1537e28b-31ee-402c-a6b7-bf113afcefbf" />
+
+#### **List the top two most reported disease illnesses in each state over the past three years, along with the corresponding average Air Quality Index (AQI) for that period.**
 
 Based on the reports of the table we can see two most prominent diseases are Acute Diarrheal Disease and Food Poisoning. 
 
 Kerala, Maharashtra, Karnataka, Odisha, Chhattisgarh tops the chart with more disease cases. In terms of AQI Delhi, Jharkhand, Himachal Pradesh, Bihar, Chandigarh tops the list having highest AQI in the past 3 years but their disease cases are not that correlated with the AQI levels.
 
-### **List the top 5 states with high EV adoption and analyse if their average AQI is significantly better compared to states with lower EV adoption.**
+<img width="800" height="672" alt="image" src="https://github.com/user-attachments/assets/a8c29f6d-a552-43f1-8f21-b5055421b3d4" />
+
+#### **List the top 5 states with high EV adoption and analyse if their average AQI is significantly better compared to states with lower EV adoption.**
 
 The EV fuels selected are Electric (BOV), Fuel Cell Hydrogen, Plug-in Hybrid EV, Pure EV, Solar and Strong Hybrid EV. 
 
 Uttar Pradesh, Maharashtra, Karnataka, Tamil Nadu and Rajasthan rank as the top 5 states with High EVs registration. Their overall average AQI is 101.27 which is pretty less than the overall average AQI of other states which is 119.53. It can be the reason that EVs have played a better role in reducing AQI levels. 
 
+<img width="800" height="691" alt="image" src="https://github.com/user-attachments/assets/196b0c6e-c930-41df-a730-3a51c2d8a5a4" />
+
 ## **SECONDARY QUESTION** 
 
-### **Which age group is most affected by air pollution-related health outcomes and how does this vary by city?**
+#### **Which age group is most affected by air pollution-related health outcomes and how does this vary by city?**
 
 **Source 1:  Air Pollution and Mortality in India: Investigating the Nexus of Ambient and Household Pollution Across Life Stages ( Research paper )**
 
@@ -176,7 +180,7 @@ Air pollution has been identified as the second most significant health risk fac
 **Impact on Children**  
 In 2021, over 700,000 deaths among children under five years of age were attributed to air pollution. Pneumonia and asthma were identified as the most prevalent illnesses affecting children in this age group.
 
-### **Who are the major competitors in the Indian air purifier market, and what are their key differentiators (e.g., price, filtration stages, smart features)?**
+#### **Who are the major competitors in the Indian air purifier market, and what are their key differentiators (e.g., price, filtration stages, smart features)?**
 
 **Eureka Forbes Smart Air Purifier 355**
 
@@ -214,7 +218,7 @@ In 2021, over 700,000 deaths among children under five years of age were attribu
 * **Smart Features:** Real-time AQI display, Filter change alert, Child lock, Sleep mode  
 * **Price Range:** ₹8,000 – ₹27,000
 
-### **What is the relationship between a city’s population size and its average AQI — do larger cities always suffer from worse air quality? (Consider 2024 population and AQI data for this)**
+#### **What is the relationship between a city’s population size and its average AQI — do larger cities always suffer from worse air quality? (Consider 2024 population and AQI data for this)**
 
 As the population increases most of the states have maintained AQI below 150\. Except Delhi its population is upto 13K and shows high AQI levels.  
 In spite of Delhi having adopted EV fuels there must be a lack of implementation of the plan. 
@@ -223,7 +227,7 @@ The states of like Arunachal Pradesh, Meghalaya, Puducherry, Nagaland and Sikkim
 
 While other tier 1 and metro cities have populations of more than 1 Million there is an increase in AQI levels but stays within 100 to 170\.
 
-### **How aware are Indian citizens of what AQI (Air Quality Index) means and do they understand its health implications?**
+#### **How aware are Indian citizens of what AQI (Air Quality Index) means and do they understand its health implications?**
 
 | Apps  | Ratings | Reviews  | Downloads |
 | :---- | :---- | :---- | :---- |
@@ -246,7 +250,7 @@ Related queries users have searched
 * aqi of my location  
 * aqi near me
 
-### **Which pollution control policies introduced by the Indian government in the past 5 years have had the most measurable impact on improving air quality and how have these impacts varied across regions or cities?**
+#### **Which pollution control policies introduced by the Indian government in the past 5 years have had the most measurable impact on improving air quality and how have these impacts varied across regions or cities?**
 
 ***National Clean Air Program by Indian Government***
 
