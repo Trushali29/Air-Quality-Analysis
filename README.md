@@ -286,6 +286,8 @@ Based on research done the air purifier market and products below shows 3 protot
 
 #### Air Purifier Segmentation (Basic vs Medium vs Premium)
 
+For Tier 1 cities Basic and Medium plans can be pitched and for tier 2 cities medium and premium plans.
+
 | Feature / Category      | Basic             | Medium              | Premium                |
 |-------------------------|-------------------|---------------------|------------------------|
 | **Filter Type**          | Pre-Filter, Activated Carbon Filter, True H13 HEPA Filter | Pre-Filter, Activated Carbon Filter, True H13 HEPA Filter, Microbe DeActive Filters, Anti-Bacterial Filters | Pre-Filter, Activated Carbon Filter, True H13 HEPA Filter, Microbe DeActive Filters, Anti-Bacterial Filters, VOC Filters, UV Light Filters |
@@ -361,3 +363,35 @@ Based on research done the air purifier market and products below shows 3 protot
 | Hubballi        | 74.79       | Srinagar           | 69.50       |
 | Kalaburagi      | 63.67       | Chandigarh         | 141.27      |
 | Mysuru          | 50.55       | Puducherry         | 56.46       |
+
+
+####  <p align="center">Priority Cities: Which Tier 1/2 cities show irreversible AQI degradation? </p>
+
+It shows cities with worst AQI which is irreversible. 
+
+| Area       | Average AQI | Tier Type |
+| ---------- | ----------- | --------- |
+| Ujjain     | 500         | Tier 2    |
+| Vijayawada | 459         | Tier 2    |
+| Dhanbad    | 436         | Tier 2    |
+| Faridabad  | 428.79      | Tier 2    |
+| Delhi      | 427.29      | Tier 1    |
+| Meerut     | 424         | Tier 2    |
+| Noida      | 423.22      | Tier 2    |
+| Ghaziabad  | 414.88      | Tier 2    |
+| Chandigarh | 412         | Tier 2    |
+| Patna      | 409.63      | Tier 2    |
+| Ludhiana   | 408         | Tier 2    |
+| Aurangabad | 404         | Tier 2    |
+| Bikaner    | 403         | Tier 2    |
+
+
+####  <p align="center">Health Burden:How do AQI spikes correlate with pediatric asthma admissions? </p>
+
+Only diseases related to asthma and respiratory conditions are considered below.
+The data suggests that as AQI values increase, there can be a rise in cases of measles, diphtheria, and swine flu.
+Although these diseases are not directly caused by poor air quality, it can be inferred that a polluted environment with toxic air pollutants worsens the AQI, which may contribute to increased vulnerability and severity of such diseases.
+
+<img width="1242" height="686" alt="image" src="https://github.com/user-attachments/assets/02260a26-8b86-4278-95d2-45821a54d45a" />
+
+
