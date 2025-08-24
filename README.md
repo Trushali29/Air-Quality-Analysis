@@ -280,25 +280,26 @@ The programme goal was to achieve reductions up to 40% or achievement of Nationa
 
 ## Final Analysis 
 
+Based on research done the air purifier market and products below shows 3 prototypes of that can be develop. 
+
+
 # Air Purifier Segmentation (Basic vs Medium vs Premium)
 
-| Feature / Category      | Basic Features             | Medium              | Premium                |
-|--------------------------|---------------------------|---------------------|------------------------|
+| Feature / Category      | Basic             | Medium              | Premium                |
+|-------------------------|-------------------|---------------------|------------------------|
 | **Filter Type**          | Pre-Filter, Activated Carbon Filter, True H13 HEPA Filter | Pre-Filter, Activated Carbon Filter, True H13 HEPA Filter, Microbe DeActive Filters, Anti-Bacterial Filters | Pre-Filter, Activated Carbon Filter, True H13 HEPA Filter, Microbe DeActive Filters, Anti-Bacterial Filters, VOC Filters, UV Light Filters |
-| **Category**             | Small Rooms      | Medium Rooms (bedrooms, halls, living areas)    | Large Spaces (offices, halls, living rooms) |
+| **Category**             | Small Rooms | Medium Rooms (bedrooms, halls, living areas) | Large Spaces (offices, halls, living rooms) |
 | **Real Time AQI Display**| ✅  | ✅   | ✅  |
 | **PM2.5 Indicator**      | ✅  | ✅  | ✅  |
-| **Alerts to Change Filters** | ✅ | ✅  | ✅  |
+| **Alerts to Change Filters** | ✅ | ✅  | ✅ |
 | **Quiet Mode**           | ❌ | ✅ | ✅ |
 | **Voice Control**        | ❌ | ✅ | ✅ |
 | **App Access**           | ❌ | ✅ | ✅ |
 | **Remote Control**       | ✅ | ✅ | ✅ |
 | **Touch Screen**         | ❌ | ❌ | ✅ |
 | **Child Lock**           | ❌ | ✅ | ✅ |
-| **Price Range (INR)**    | 5K – 15K  | 15K – 30K  | 30K – 50K |
 | **Smart AQI Syncing**    | ❌ | ❌ | ✅ |
 
 
-
-
+<img width="476" height="323" alt="image" src="https://github.com/user-attachments/assets/a6ebc7fb-4ce2-4e76-b208-79949f28bbac" />
 
