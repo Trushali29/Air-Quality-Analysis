@@ -1,5 +1,3 @@
-<img width="2729" height="962" alt="image" src="https://github.com/user-attachments/assets/141a8da4-f849-4f86-a5e0-2e2a284321ee" /># Conduct Product Market Fit Research for Air Purifier Development Using AQI Analytics
-
 This is the Resume Project Challenge for conducting a product market fit analysis on air purifiers. This challenge is powered by Codebasics platform and sponsored by dataful platform.
 
 
@@ -284,20 +282,23 @@ The programme goal was to achieve reductions up to 40% or achievement of Nationa
 
 # Air Purifier Segmentation (Basic vs Medium vs Premium)
 
-| Feature / Category      | Basic Features                                                                 | Medium                                                                                          | Premium                                                                                                  |
-|--------------------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| **Filter Type**          | Pre-Filter, Activated Carbon Filter, True H13 HEPA Filter                      | Pre-Filter, Activated Carbon Filter, True H13 HEPA Filter, Microbe DeActive Filters, Anti-Bacterial Filters | Pre-Filter, Activated Carbon Filter, True H13 HEPA Filter, Microbe DeActive Filters, Anti-Bacterial Filters, VOC Filters, UV Light Filters |
-| **Category**             | Small Rooms                                                                   | Medium Rooms (bedrooms, halls, living areas)                                                    | Large Spaces (offices, halls, living rooms)                                                              |
-| **Real Time AQI Display**| ✅                                                                              | ✅                                                                                               | ✅                                                                                                        |
-| **PM2.5 Indicator**      | ✅                                                                              | ✅                                                                                               | ✅                                                                                                        |
-| **Alerts to Change Filters** | ✅                                                                          | ✅                                                                                               | ✅                                                                                                        |
-| **Quiet Mode**           | ❌                                                                              | ✅                                                                                               | ✅                                                                                                        |
-| **Voice Control**        | ❌                                                                              | ✅                                                                                               | ✅                                                                                                        |
-| **App Access**           | ❌                                                                              | ✅                                                                                               | ✅                                                                                                        |
-| **Remote Control**       | ✅                                                                              | ✅                                                                                               | ✅                                                                                                        |
-| **Touch Screen**         | ❌                                                                              | ❌                                                                                               | ✅                                                                                                        |
-| **Child Lock**           | ❌                                                                              | ✅                                                                                               | ✅                                                                                                        |
-| **Price Range (INR)**    | 5K – 15K                                                                      | 15K – 30K                                                                                       | 30K – 50K                                                                                                |
-| **Smart AQI Syncing**    | ❌                                                                              | ❌                                                                                               | ✅                                                                                                        |
+| Feature / Category      | Basic Features             | Medium              | Premium                |
+|--------------------------|---------------------------|---------------------|------------------------|
+| **Filter Type**          | Pre-Filter, Activated Carbon Filter, True H13 HEPA Filter | Pre-Filter, Activated Carbon Filter, True H13 HEPA Filter, Microbe DeActive Filters, Anti-Bacterial Filters | Pre-Filter, Activated Carbon Filter, True H13 HEPA Filter, Microbe DeActive Filters, Anti-Bacterial Filters, VOC Filters, UV Light Filters |
+| **Category**             | Small Rooms      | Medium Rooms (bedrooms, halls, living areas)    | Large Spaces (offices, halls, living rooms) |
+| **Real Time AQI Display**| ✅  | ✅   | ✅  |
+| **PM2.5 Indicator**      | ✅  | ✅  | ✅  |
+| **Alerts to Change Filters** | ✅ | ✅  | ✅  |
+| **Quiet Mode**           | ❌ | ✅ | ✅ |
+| **Voice Control**        | ❌ | ✅ | ✅ |
+| **App Access**           | ❌ | ✅ | ✅ |
+| **Remote Control**       | ✅ | ✅ | ✅ |
+| **Touch Screen**         | ❌ | ❌ | ✅ |
+| **Child Lock**           | ❌ | ✅ | ✅ |
+| **Price Range (INR)**    | 5K – 15K  | 15K – 30K  | 30K – 50K |
+| **Smart AQI Syncing**    | ❌ | ❌ | ✅ |
+
+
+
 
 
