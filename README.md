@@ -1,7 +1,8 @@
 This is the Resume Project Challenge for conducting a product market fit analysis on air purifiers. This challenge is powered by Codebasics platform and sponsored by dataful platform.
 
 
-## **PROBLEM STATEMENT** 
+##  *<p align="center">Problem Statement</p>*
+
 
 According to the IQ air reports around the world there are 20 air polluted urban cities which have higher AQI index out of which 14 cities are from India.
 
@@ -14,7 +15,7 @@ To tackle with this AirPure Innovations is a startup born out of the air quality
 3. Which cities have the highest demand for air purifiers, and what is the market size in these regions?  
 4. How can R\&D be aligned with localized pollution patterns?
 
-## **Dataset Information**
+##  *<p align="center">Dataset Information</p>*
 
 ### **Dataset: Day-wise, State-wise Air Quality Index (AQI) of Major Cities and Towns in India**
 
@@ -82,7 +83,7 @@ This dataset provides projected urban population figures for Indian states, disa
 | Female Population | Numeric | Projected urban female population for the specified state and year |
 | Total Population | Numeric | Sum of projected male and female urban population for that state and year |
 
-## **PRIMARY QUESTIONS**
+##  *<p align="center">Primary Questions</p>*
 
 #### **List the top 5 and bottom 5 areas with highest average AQI. (Consider areas which contains data from last 6 months: December 2024 to May 2025\)**
 
@@ -152,7 +153,7 @@ Uttar Pradesh, Maharashtra, Karnataka, Tamil Nadu and Rajasthan rank as the top 
 
 <img width="800" height="691" alt="image" src="https://github.com/user-attachments/assets/196b0c6e-c930-41df-a730-3a51c2d8a5a4" />
 
-## **SECONDARY QUESTION** 
+##  *<p align="center">Secondary Questions</p>*
 
 #### **Which age group is most affected by air pollution-related health outcomes and how does this vary by city?**
 
@@ -180,7 +181,7 @@ In 2021, over 700,000 deaths among children under five years of age were attribu
 
 #### **Who are the major competitors in the Indian air purifier market, and what are their key differentiators (e.g., price, filtration stages, smart features)?**
 
-# Air Purifier Competitor Matrix  
+#### Air Purifier Competitor Matrix  
 
 | Brand          | Price Range (INR) | Coverage Area (sq.ft) | Filtration Stages                                                                                       | Category                                      | Smart Features                                                                                                   | Alerts to change Filters | App Access | Quiet Mode | Voice Control | VOCs | Real Time AQI |
 |----------------|------------------|------------------------|---------------------------------------------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------|--------------------------|------------|------------|---------------|------|----------------|
@@ -278,12 +279,12 @@ The programme goal was to achieve reductions up to 40% or achievement of Nationa
 * SATAT (Sustainable Alternative Towards Affordable Transportation)  
 * FAME II (Faster Adoption and Manufacturing of Hybrid and Electric Vehicles)
 
-## Final Analysis 
+##  *<p align="center">Final Analysis</p>*
 
 Based on research done the air purifier market and products below shows 3 prototypes of that can be develop. 
 
 
-# Air Purifier Segmentation (Basic vs Medium vs Premium)
+#### Air Purifier Segmentation (Basic vs Medium vs Premium)
 
 | Feature / Category      | Basic             | Medium              | Premium                |
 |-------------------------|-------------------|---------------------|------------------------|
@@ -301,5 +302,62 @@ Based on research done the air purifier market and products below shows 3 protot
 | **Smart AQI Syncing**    | ❌ | ❌ | ✅ |
 
 
-<img width="476" height="323" alt="image" src="https://github.com/user-attachments/assets/a6ebc7fb-4ce2-4e76-b208-79949f28bbac" />
 
+####  <p align="center">TIER 1 CITIES </p>
+
+
+| **Area**  | **Average AQI** |
+| --------- | --------------- |
+| Delhi     | 204.26          | 
+| Ahmedabad | 111.46          |
+| Pune      | 108.95          | 
+| Mumbai    | 105.49          | 
+| Kolkata   | 100.87          | 
+| Hyderabad | 79.91           | 
+| Chennai   | 73.83           | 
+| Bengaluru | 73.28           | 
+
+####  <p align="center">TIER 2 CITIES </p>
+
+| Area            | Average AQI | Area               | Average AQI |
+| --------------- | ----------- | ------------------ | ----------- |
+| Aurangabad      | 119.31      | Raichur            | 93.33       |
+| Akola           | 92.47       | Vijayapura         | 50.51       |
+| Amravati        | 88.40       | Kannur             | 67.14       |
+| Bhiwandi        | 106.35      | Kochi              | 99.98       |
+| Dhule           | 104.28      | Kollam             | 78.83       |
+| Jalgaon         | 109.07      | Kozhikode          | 67.37       |
+| Kolhapur        | 93.27       | Thiruvananthapuram | 50.77       |
+| Nagpur          | 109.19      | Thrissur           | 65.32       |
+| Nanded          | 99.26       | Bhopal             | 117.77      |
+| Nashik          | 80.77       | Gwalior            | 144.52      |
+| Sangli          | 78.67       | Indore             | 98.74       |
+| Solapur         | 95.48       | Jabalpur           | 114.85      |
+| Agra            | 83.14       | Ratlam             | 100.23      |
+| Bareilly        | 79.16       | Ujjain             | 125.05      |
+| Ghaziabad       | 182.20      | Ajmer              | 101.28      |
+| Gorakhpur       | 98.13       | Bikaner            | 158.49      |
+| Jhansi          | 95.22       | Jaipur             | 130.43      |
+| Kanpur          | 112.22      | Jodhpur            | 126.24      |
+| Lucknow         | 128.41      | Kota               | 130.20      |
+| Meerut          | 161.62      | Vijayawada         | 72.53       |
+| Moradabad       | 105.86      | Visakhapatnam      | 114.93      |
+| Noida           | 187.36      | Patna              | 179.22      |
+| Prayagraj       | 95.05       | Amritsar           | 124.84      |
+| Varanasi        | 67.55       | Jalandhar          | 111.60      |
+| Coimbatore      | 68.87       | Ludhiana           | 131.12      |
+| Madurai         | 47.93       | Patiala            | 103.73      |
+| Salem           | 73.04       | Faridabad          | 186.00      |
+| Thanjavur       | 41.93       | Karnal             | 108.82      |
+| Tiruchirappalli | 52.01       | Dhanbad            | 174.55      |
+| Tirunelveli     | 30.34       | Bhubaneswar        | 126.26      |
+| Tiruppur        | 75.78       | Cuttack            | 124.69      |
+| Vellore         | 69.74       | Rourkela           | 125.47      |
+| Asansol         | 142.74      | Bhilai             | 71.61       |
+| Durgapur        | 132.23      | Bilaspur           | 68.61       |
+| Siliguri        | 79.58       | Raipur             | 77.71       |
+| Surat           | 122.74      | Guwahati           | 112.90      |
+| Dharwad         | 74.62       | Dehradun           | 97.56       |
+| Hubballi        | 74.79       | Srinagar           | 69.50       |
+| Kalaburagi      | 63.67       | Chandigarh         | 141.27      |
+| Mysuru          | 50.55       | Puducherry         | 56.46       |
