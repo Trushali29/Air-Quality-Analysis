@@ -1,4 +1,4 @@
-# Conduct Product Market Fit Research for Air Purifier Development Using AQI Analytics
+<img width="2729" height="962" alt="image" src="https://github.com/user-attachments/assets/141a8da4-f849-4f86-a5e0-2e2a284321ee" /># Conduct Product Market Fit Research for Air Purifier Development Using AQI Analytics
 
 This is the Resume Project Challenge for conducting a product market fit analysis on air purifiers. This challenge is powered by Codebasics platform and sponsored by dataful platform.
 
@@ -182,41 +182,16 @@ In 2021, over 700,000 deaths among children under five years of age were attribu
 
 #### **Who are the major competitors in the Indian air purifier market, and what are their key differentiators (e.g., price, filtration stages, smart features)?**
 
-**Eureka Forbes Smart Air Purifier 355**
+# Air Purifier Competitor Matrix  
 
-* **Coverage Area:** 200–500 sq. ft. (Living rooms up to 480 sq. ft., Bedrooms)  
-* **Category:** Quick Cleaning & Ionization  
-* **Filtration Stages:** Pre-Filter \+ Activated Carbon Filter \+ True H13 HEPA Filter \+ Plasma Filter  
-* **Smart Features:** WiFi Enabled, PM 2.5 value digital display, Activated Carbon Filter, Purifies air within 10 mins  
-* **Price Range:** ₹500 – ₹20,000
-
-**Philips Air Purifier 1000i Series (AC1715)**
-
-* **Coverage Area:** 300–800 sq. ft. (Medium & Large Rooms, Workspace)  
-* **Filtration Stages:** Pre-Filter \+ Nano Protect HEPA Filter \+ Carbon Filter  
-* **Smart Features:** Sleep Mode, Real-time AQI display, PM2.5 numerical reading, Long-lasting filters (up to 3 years)  
-* **Price Range:** ₹22,000 – ₹32,000
-
-**Dyson Purifier Big+Quiet (Hot+Cool Gen1)**
-
-* **Coverage Area:** 400–650 sq. ft. (Living rooms, Small Conferences, Bedrooms)  
-* **Filtration Stages:** HEPA H13 Filter \+ Activated Carbon \+ Formaldehyde Filter  
-* **Smart Features:** Night Mode, Real-time AQI value, 350° Oscillation & Air Projection  
-* **Price Range:** ₹33,000 – ₹68,000
-
-**Honeywell Air Touch U2**
-
-* **Coverage Area:** 235–1000 sq. ft. (Home & Office Purifiers, Car Purifiers)  
-* **Filtration Stages:** Anti-Bacterial Filter (Silver Ion) \+ Anti-H1N1 Layer \+ H13 HEPA Filter \+ Cold Catalyst \+ Activated Carbon Filter  
-* **Smart Features:** Purifies air every 12 mins, Real-time AQI display, 9000 hrs filter life, Alexa control, WiFi \+ Smart app control  
-* **Price Range:** ₹5,000 – ₹28,000
-
-**Blue Star AP700DAI**
-
-* **Coverage Area:** 299–915 sq. ft. (Home Purifiers)  
-* **Filtration Stages:** High-Density Pre-Filter \+ H13 HEPA Filter \+ Active Carbon Filter \+ Microbe DeActive Filter (Deactivates airborne microbes)  
-* **Smart Features:** Real-time AQI display, Filter change alert, Child lock, Sleep mode  
-* **Price Range:** ₹8,000 – ₹27,000
+| Brand          | Price Range (INR) | Coverage Area (sq.ft) | Filtration Stages                                                                                       | Category                                      | Smart Features                                                                                                   | Alerts to change Filters | App Access | Quiet Mode | Voice Control | VOCs | Real Time AQI |
+|----------------|------------------|------------------------|---------------------------------------------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------|--------------------------|------------|------------|---------------|------|----------------|
+| **Dyson**      | 33K - 68K        | 400 - 1000            | Evo Carbon Filter, 360° Glass HEPA 13, Carbon Air Purifier Filter, Formaldehyde Filter                  | Living Rooms, Small Conferences, Bedroom      | Remote Control, Quieter Sound (56dBA), App Access, Auto Mode, Voice Control (Siri, Alexa, Google), Night Mode, VOCs Indicator | ✅                        | ✅          | ✅          | ✅             | ✅    | ✅              |
+| **Philips**    | 8K - 15K         | 300 - 1000            | HEPA Filter, Active Carbon Filter, Pre-Filter                                                           | Large, Medium, Small, Compact Areas           | App Connectivity, Ultra Quiet Mode, Real Time AQI Display, PM2.5 Sensor, Voice Control (Alexa, Google Home)       | ✅                        | ✅          | ✅          | ✅             | ❌    | ✅              |
+| **Eureka Forbes** | 1K - 19K      | 200 - 500             | Pre-Filter, Activated Carbon Filter, True H13 HEPA Filter, Plasma Filter                                | Quick Cleaning, Bedrooms, Living Rooms (480 sq.ft.) | WiFi Enabled, PM2.5 Digital Display, 360° Air Intake, Real Time AQI, Quiet Mode, VOCs Indicator, Child Lock        | ✅                        | ✅          | ✅          | ❌             | ✅    | ✅              |
+| **Honeywell**  | 5K - 28K         | 235 - 1000            | Pre-Filter, Anti-Bacterial Filter (Silver Ion), Anti H1N1 Layer, H13 HEPA, Cold Catalyst, Activated Carbon | Home & Office Purifiers, Car Purifiers        | Purifies Air Every 12 mins, Real Time AQI Display, 9000 Hrs Filter Life, Voice Control (Alexa), WiFi + App, Child Lock, VOCs Indicator | ✅                        | ✅          | ✅          | ✅             | ✅    | ✅              |
+| **Blue Star**  | 8K - 27K         | 299 - 915             | Pre-Filter, H13 HEPA, Activated Carbon, Microbe DeActive Filter                                         | Home Purifiers                                | Real Time AQI, Child Lock, Sleep Mode, VOC Sensor, PM2.5 Indicator, Touch Interface                               | ✅                        | ❌          | ❌          | ❌             | ✅    | ✅              |
+| **Coway**      | 20K - 59K        | 355 - 930             | Pre-Filter, True H13 HEPA, Deodorization Filter                                                         | Home Purifiers                                | 360° Air Purification, Real Time AQI, Remote Control, Auto Oscillation (80°)                                     | ✅                        | ❌          | ❌          | ❌             | ✅    | ✅              |
 
 #### **What is the relationship between a city’s population size and its average AQI — do larger cities always suffer from worse air quality? (Consider 2024 population and AQI data for this)**
 
@@ -304,4 +279,25 @@ The programme goal was to achieve reductions up to 40% or achievement of Nationa
 * Smart City Mission  
 * SATAT (Sustainable Alternative Towards Affordable Transportation)  
 * FAME II (Faster Adoption and Manufacturing of Hybrid and Electric Vehicles)
+
+## Final Analysis 
+
+# Air Purifier Segmentation (Basic vs Medium vs Premium)
+
+| Feature / Category      | Basic Features                                                                 | Medium                                                                                          | Premium                                                                                                  |
+|--------------------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| **Filter Type**          | Pre-Filter, Activated Carbon Filter, True H13 HEPA Filter                      | Pre-Filter, Activated Carbon Filter, True H13 HEPA Filter, Microbe DeActive Filters, Anti-Bacterial Filters | Pre-Filter, Activated Carbon Filter, True H13 HEPA Filter, Microbe DeActive Filters, Anti-Bacterial Filters, VOC Filters, UV Light Filters |
+| **Category**             | Small Rooms                                                                   | Medium Rooms (bedrooms, halls, living areas)                                                    | Large Spaces (offices, halls, living rooms)                                                              |
+| **Real Time AQI Display**| ✅                                                                              | ✅                                                                                               | ✅                                                                                                        |
+| **PM2.5 Indicator**      | ✅                                                                              | ✅                                                                                               | ✅                                                                                                        |
+| **Alerts to Change Filters** | ✅                                                                          | ✅                                                                                               | ✅                                                                                                        |
+| **Quiet Mode**           | ❌                                                                              | ✅                                                                                               | ✅                                                                                                        |
+| **Voice Control**        | ❌                                                                              | ✅                                                                                               | ✅                                                                                                        |
+| **App Access**           | ❌                                                                              | ✅                                                                                               | ✅                                                                                                        |
+| **Remote Control**       | ✅                                                                              | ✅                                                                                               | ✅                                                                                                        |
+| **Touch Screen**         | ❌                                                                              | ❌                                                                                               | ✅                                                                                                        |
+| **Child Lock**           | ❌                                                                              | ✅                                                                                               | ✅                                                                                                        |
+| **Price Range (INR)**    | 5K – 15K                                                                      | 15K – 30K                                                                                       | 30K – 50K                                                                                                |
+| **Smart AQI Syncing**    | ❌                                                                              | ❌                                                                                               | ✅                                                                                                        |
+
 
