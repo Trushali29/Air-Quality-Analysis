@@ -69,9 +69,9 @@ This dataset contains monthly records of the number of vehicles registered in In
 | Fuel Type | Text | Type of fuel the vehicle uses (e.g., Petrol, Diesel, Electric, CNG) |
 | Number of Vehicles | Numeric | Total number of vehicles registered under the given category in that month |
 
-### **Dataset: Population Projection of India: State- and Gender-wise Yearly Projected Urban Population (2011-2036)**
+### **Dataset: Population Projection of India: State-wise and Gender-wise Yearly Projected Urban Population (2011-2036)**
 
-This dataset provides projected urban population figures for Indian states, disaggregated by gender (male and female) for each year from 2011 to 2036\. These projections are based on estimates from official census data and demographic models, and are intended for use in urban planning, resource allocation, and policy formulation.
+This dataset provides projected urban population figures for Indian states, disaggregated by gender (male and female) for each year from 2011 to 2036. These projections are based on estimates from official census data and demographic models, and are intended for use in urban planning, resource allocation, and policy formulation.
 
 **Time Coverage:** From year 2011 \- 2036 monthly data.
 
@@ -85,7 +85,7 @@ This dataset provides projected urban population figures for Indian states, disa
 
 ##  *<p align="center">Primary Questions</p>*
 
-#### **List the top 5 and bottom 5 areas with highest average AQI. (Consider areas which contains data from last 6 months: December 2024 to May 2025\)**
+### **List the top 5 and bottom 5 areas with highest average AQI. (Consider areas which contains data from last 6 months: December 2024 to May 2025\)**
 
 **Bottom 5 areas**
 It shows areas with lowest AQI, Tirunelveli has one of the lowest AQI of 33.31.
@@ -103,13 +103,13 @@ The AQI in Chamarajanagar, Vijayapura, Madikeri (Karnataka), and Tirunelveli (Ta
 
 <img width="800" height="417" src="https://github.com/user-attachments/assets/d8e857ba-6703-4b02-b4ba-93818372b094" />
 
-#### **List out top 2 and bottom 2 prominent pollutants for each state of southern India.  (Consider data post covid: 2022 onwards)**
+### **List out top 2 and bottom 2 prominent pollutants for each state of southern India.  (Consider data post covid: 2022 onwards)**
 
 PM10 and PM2.5 stand out as the top pollutants across southern states while few other pollutants such NH3, NO2, O3, and SO2. The factors could be more number of vehicles, construction and demolition, duct and debris. 
 
 <img width="800" height="360" alt="image" src="https://github.com/user-attachments/assets/52507248-930d-4d03-9d10-13e562a53883" />
 
-#### **Does AQI improve on weekends vs weekdays in Indian metro cities (Delhi, Mumbai, Chennai, Kolkata, Bengaluru, Hyderabad, Ahmedabad, Pune)?(Consider data from last 1 year)**
+### **Does AQI improve on weekends vs weekdays in Indian metro cities (Delhi, Mumbai, Chennai, Kolkata, Bengaluru, Hyderabad, Ahmedabad, Pune)?(Consider data from last 1 year)**
 
 There is a slight drop of AQI from March to May ( due to holiday season ), August to October and December. Since in these months most people either go for a vacation, and other seasonal factors.
 
@@ -119,25 +119,25 @@ During the month of Oct \- Jan the AQI is at its peak the factors could be harve
 
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/ee3c5fc8-e1c7-4b20-b53f-337a7fa99399" />
 
-#### **Which months consistently show the worst air quality across Indian states (Consider top 10 states with high distinct areas)**
+### **Which months consistently show the worst air quality across Indian states (Consider top 10 states with high distinct areas)**
 
 Months of January, February and December show signs of high AQI. While November is a leading month in most all those states. 
 
-Months ranging from Mid-April or May till September we can see there is a sudden drop of the AQI for this a dominant factor can be a monsoon season. 
+For months ranging from Mid-April or May till September we can see there is a sudden drop of the AQI for this a dominant factor can be a monsoon season. 
 
-After the monsoon season, harvesting seasons start for various states in different timelines so we can see there is a rise of AQI level from October till Jan and more or less it can expand till April. Depends on the state's geographical location.
+After the monsoon season, harvesting seasons starts for various states in different timelines so we can see there is a rise of AQI level from October till Jan and more or less it can expand till April. Depends on the state's geographical location.
 
 As we see in the line chart there is only a slight difference between weekday and weekend AQI levels.
 
 <img width="800" height="650" alt="image" src="https://github.com/user-attachments/assets/30567ea7-adbb-4b6a-b404-4f9dbccc9234" />
 
-#### **For the city of Bengaluru, how many days fell under each air quality category (e.g., Good, Moderate, Poor, etc.) between March and May 2025?**
+### **For the city of Bengaluru, how many days fell under each air quality category (e.g., Good, Moderate, Poor, etc.) between March and May 2025?**
 
 In the Pie chart we see that Bengaluru has 13 days with moderate level AQI and 48 days with Satisfactory level AQI. 
 
 <img width="600" height="502" alt="image" src="https://github.com/user-attachments/assets/1537e28b-31ee-402c-a6b7-bf113afcefbf" />
 
-#### **List the top two most reported disease illnesses in each state over the past three years, along with the corresponding average Air Quality Index (AQI) for that period.**
+### **List the top two most reported disease illnesses in each state over the past three years, along with the corresponding average Air Quality Index (AQI) for that period.**
 
 Based on the reports of the table we can see two most prominent diseases are Acute Diarrheal Disease and Food Poisoning. 
 
@@ -145,17 +145,17 @@ Kerala, Maharashtra, Karnataka, Odisha, Chhattisgarh tops the chart with more di
 
 <img width="800" height="672" alt="image" src="https://github.com/user-attachments/assets/a8c29f6d-a552-43f1-8f21-b5055421b3d4" />
 
-#### **List the top 5 states with high EV adoption and analyse if their average AQI is significantly better compared to states with lower EV adoption.**
+### **List the top 5 states with high EV adoption and analyse if their average AQI is significantly better compared to states with lower EV adoption.**
 
 The EV fuels selected are Electric (BOV), Fuel Cell Hydrogen, Plug-in Hybrid EV, Pure EV, Solar and Strong Hybrid EV. 
 
-Uttar Pradesh, Maharashtra, Karnataka, Tamil Nadu and Rajasthan rank as the top 5 states with High EVs registration. Their overall average AQI is 101.27 which is pretty less than the overall average AQI of other states which is 119.53. It can be the reason that EVs have played a better role in reducing AQI levels. 
+Uttar Pradesh, Maharashtra, Karnataka, Tamil Nadu and Rajasthan rank as the top 5 states with High EVs registration. Their overall average AQI is 101.27 which is pretty less than the overall average AQI of other states which is 119.53. It can be the reason that EVs have played a better role in reducing AQI levels but with better implementation in states since most states even with more EVs still has high AQI levels. This tells us that there are some other factors such as environmental conditions, bad implementation of EVs, Industrial activity that the affects the air quality.
 
 <img width="800" height="691" alt="image" src="https://github.com/user-attachments/assets/196b0c6e-c930-41df-a730-3a51c2d8a5a4" />
 
 ##  *<p align="center">Secondary Questions</p>*
 
-#### **Which age group is most affected by air pollution-related health outcomes and how does this vary by city?**
+### **Which age group is most affected by air pollution-related health outcomes and how does this vary by city?**
 
 **Source 1:  Air Pollution and Mortality in India: Investigating the Nexus of Ambient and Household Pollution Across Life Stages ( Research paper )**
 
@@ -179,20 +179,20 @@ Air pollution has been identified as the second most significant health risk fac
 **Impact on Children**  
 In 2021, over 700,000 deaths among children under five years of age were attributed to air pollution. Pneumonia and asthma were identified as the most prevalent illnesses affecting children in this age group.
 
-#### **Who are the major competitors in the Indian air purifier market, and what are their key differentiators (e.g., price, filtration stages, smart features)?**
+### **Who are the major competitors in the Indian air purifier market, and what are their key differentiators (e.g., price, filtration stages, smart features)?**
 
 #### Air Purifier Competitor Matrix  
 
-| Brand          | Price Range (INR) | Coverage Area (sq.ft) | Filtration Stages                                                                                       | Category                                      | Smart Features                                                                                                   | Alerts to change Filters | App Access | Quiet Mode | Voice Control | VOCs | Real Time AQI |
-|----------------|------------------|------------------------|---------------------------------------------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------|--------------------------|------------|------------|---------------|------|----------------|
-| **Dyson**      | 33K - 68K        | 400 - 1000            | Evo Carbon Filter, 360° Glass HEPA 13, Carbon Air Purifier Filter, Formaldehyde Filter                  | Living Rooms, Small Conferences, Bedroom      | Remote Control, Quieter Sound (56dBA), App Access, Auto Mode, Voice Control (Siri, Alexa, Google), Night Mode, VOCs Indicator | ✅                        | ✅          | ✅          | ✅             | ✅    | ✅              |
-| **Philips**    | 8K - 15K         | 300 - 1000            | HEPA Filter, Active Carbon Filter, Pre-Filter                                                           | Large, Medium, Small, Compact Areas           | App Connectivity, Ultra Quiet Mode, Real Time AQI Display, PM2.5 Sensor, Voice Control (Alexa, Google Home)       | ✅                        | ✅          | ✅          | ✅             | ❌    | ✅              |
-| **Eureka Forbes** | 1K - 19K      | 200 - 500             | Pre-Filter, Activated Carbon Filter, True H13 HEPA Filter, Plasma Filter                                | Quick Cleaning, Bedrooms, Living Rooms (480 sq.ft.) | WiFi Enabled, PM2.5 Digital Display, 360° Air Intake, Real Time AQI, Quiet Mode, VOCs Indicator, Child Lock        | ✅                        | ✅          | ✅          | ❌             | ✅    | ✅              |
-| **Honeywell**  | 5K - 28K         | 235 - 1000            | Pre-Filter, Anti-Bacterial Filter (Silver Ion), Anti H1N1 Layer, H13 HEPA, Cold Catalyst, Activated Carbon | Home & Office Purifiers, Car Purifiers        | Purifies Air Every 12 mins, Real Time AQI Display, 9000 Hrs Filter Life, Voice Control (Alexa), WiFi + App, Child Lock, VOCs Indicator | ✅                        | ✅          | ✅          | ✅             | ✅    | ✅              |
-| **Blue Star**  | 8K - 27K         | 299 - 915             | Pre-Filter, H13 HEPA, Activated Carbon, Microbe DeActive Filter                                         | Home Purifiers                                | Real Time AQI, Child Lock, Sleep Mode, VOC Sensor, PM2.5 Indicator, Touch Interface                               | ✅                        | ❌          | ❌          | ❌             | ✅    | ✅              |
-| **Coway**      | 20K - 59K        | 355 - 930             | Pre-Filter, True H13 HEPA, Deodorization Filter                                                         | Home Purifiers                                | 360° Air Purification, Real Time AQI, Remote Control, Auto Oscillation (80°)                                     | ✅                        | ❌          | ❌          | ❌             | ✅    | ✅              |
+| Brand  | Price Range (INR) | Coverage Area (sq.ft) | Filtration Stages  | Category  | Smart Features  | Alerts to change Filters | App Access | Quiet Mode | Voice Control | VOCs | Real Time AQI |
+|--------|-------------------|-----------------------|------------------- |-----------|-----------------|--------------------------|------------|------------|---------------|------|---------------|
+| **Dyson** | 33K - 68K | 400 - 1000  | Evo Carbon Filter, 360° Glass HEPA 13, Carbon Air Purifier Filter, Formaldehyde Filter | Living Rooms, Small Conferences, Bedroom  | Remote Control, Quieter Sound (56dBA), App Access, Auto Mode, Voice Control (Siri, Alexa, Google), Night Mode, VOCs Indicator | ✅ | ✅  | ✅ | ✅ | ✅ | ✅ |
+| **Philips**    | 8K - 15K | 300 - 1000 | HEPA Filter, Active Carbon Filter, Pre-Filter | Large, Medium, Small, Compact Areas  | App Connectivity, Ultra Quiet Mode, Real Time AQI Display, PM2.5 Sensor, Voice Control (Alexa, Google Home) | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ |
+| **Eureka Forbes** | 1K - 19K | 200 - 500  | Pre-Filter, Activated Carbon Filter, True H13 HEPA Filter, Plasma Filter | Quick Cleaning, Bedrooms, Living Rooms (480 sq.ft.) | WiFi Enabled, PM2.5 Digital Display, 360° Air Intake, Real Time AQI, Quiet Mode, VOCs Indicator, Child Lock | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
+| **Honeywell**  | 5K - 28K | 235 - 1000 | Pre-Filter, Anti-Bacterial Filter (Silver Ion), Anti H1N1 Layer, H13 HEPA, Cold Catalyst, Activated Carbon | Home & Office Purifiers, Car Purifiers | Purifies Air Every 12 mins, Real Time AQI Display, 9000 Hrs Filter Life, Voice Control (Alexa), WiFi + App, Child Lock, VOCs Indicator | ✅ | ✅  | ✅ | ✅ | ✅ | ✅ |
+| **Blue Star**  | 8K - 27K | 299 - 915 | Pre-Filter, H13 HEPA, Activated Carbon, Microbe DeActive Filter | Home Purifiers | Real Time AQI, Child Lock, Sleep Mode, VOC Sensor, PM2.5 Indicator, Touch Interface | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ |
+| **Coway** | 20K - 59K | 355 - 930 | Pre-Filter, True H13 HEPA, Deodorization Filter | Home Purifiers  | 360° Air Purification, Real Time AQI, Remote Control, Auto Oscillation (80°) | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ |
 
-#### **What is the relationship between a city’s population size and its average AQI — do larger cities always suffer from worse air quality? (Consider 2024 population and AQI data for this)**
+### **What is the relationship between a city’s population size and its average AQI — do larger cities always suffer from worse air quality? (Consider 2024 population and AQI data for this)**
 
 <img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/1c3fce98-e14a-4487-bc2d-0e8e5acb3759" />
 
@@ -203,7 +203,7 @@ The states of like Arunachal Pradesh, Meghalaya, Puducherry, Nagaland and Sikkim
 
 While other tier 1 and metro cities have populations of more than 1 Million there is an increase in AQI levels but stays within 100 to 170\.
 
-#### **How aware are Indian citizens of what AQI (Air Quality Index) means and do they understand its health implications?**
+### **How aware are Indian citizens of what AQI (Air Quality Index) means and do they understand its health implications?**
 
 | Apps  | Ratings | Reviews  | Downloads |
 | :---- | :---- | :---- | :---- |
@@ -226,7 +226,7 @@ Related queries users have searched
 * aqi of my location  
 * aqi near me
 
-#### **Which pollution control policies introduced by the Indian government in the past 5 years have had the most measurable impact on improving air quality and how have these impacts varied across regions or cities?**
+### **Which pollution control policies introduced by the Indian government in the past 5 years have had the most measurable impact on improving air quality and how have these impacts varied across regions or cities?**
 
 ***National Clean Air Program by Indian Government***
 
@@ -234,9 +234,9 @@ Related queries users have searched
 
 The Ministry of Environment, Forest and Climate Change (MoEFCC) launched the National Clean Air Programme (NCAP) in January, 2019\.   
 Its aim was to improve air quality in 131 cities (non-attainment cities and Million Plus Cities) in 24 States/UTs by engaging all stakeholders.   
-The programme goal was to achieve reductions up to 40% or achievement of National Ambient Air Quality Standards for Particulate Matter10 (PM 10\) concentrations by 2025-26.
+The programme goal was to achieve reductions up to 40% or achievement of National Ambient Air Quality Standards for Particulate Matter10 (PM 10\) concentrations by 2021-22.
 
-| State | Annual Average PM10 Concentration (2019-2020)  | Actual Annual Average PM10 (2021 \- 2022\) |
+| State | Annual Average PM10 Concentration (2019-2020)  | Actual Annual Average PM10 (2021 - 2022) |
 | :---- | :---- | :---- |
 | Delhi | 178 | 184 |
 | Meghalaya | 98 | 183 |
@@ -281,20 +281,19 @@ The programme goal was to achieve reductions up to 40% or achievement of Nationa
 
 ##  *<p align="center">Final Analysis</p>*
 
-Based on research done the air purifier market and products below shows 3 prototypes of that can be develop. 
+Based on research done for the air purifier market and products below shows 3 prototypes that can be develop. 
 
+### Air Purifier Segmentation (Basic vs Medium vs Premium)
 
-#### Air Purifier Segmentation (Basic vs Medium vs Premium)
-
-For Tier 1 cities Basic and Medium plans can be pitched and for tier 2 cities medium and premium plans.
+For Tier 2 cities Basic and Medium products can be pitched and for Tier 1 cities medium and premium products.
 
 | Feature / Category      | Basic             | Medium              | Premium                |
 |-------------------------|-------------------|---------------------|------------------------|
 | **Filter Type**          | Pre-Filter, Activated Carbon Filter, True H13 HEPA Filter | Pre-Filter, Activated Carbon Filter, True H13 HEPA Filter, Microbe DeActive Filters, Anti-Bacterial Filters | Pre-Filter, Activated Carbon Filter, True H13 HEPA Filter, Microbe DeActive Filters, Anti-Bacterial Filters, VOC Filters, UV Light Filters |
 | **Category**             | Small Rooms | Medium Rooms (bedrooms, halls, living areas) | Large Spaces (offices, halls, living rooms) |
-| **Real Time AQI Display**| ✅  | ✅   | ✅  |
+| **Real Time AQI Display**| ✅  | ✅  | ✅  |
 | **PM2.5 Indicator**      | ✅  | ✅  | ✅  |
-| **Alerts to Change Filters** | ✅ | ✅  | ✅ |
+| **Alerts to Change Filters** | ✅ | ✅ | ✅ |
 | **Quiet Mode**           | ❌ | ✅ | ✅ |
 | **Voice Control**        | ❌ | ✅ | ✅ |
 | **App Access**           | ❌ | ✅ | ✅ |
@@ -305,9 +304,8 @@ For Tier 1 cities Basic and Medium plans can be pitched and for tier 2 cities me
 
 
 
-####  <p align="center">TIER 1 CITIES </p>
 
-
+###  <p align="center">TIER 1 CITIES </p>
 | **Area**  | **Average AQI** |
 | --------- | --------------- |
 | Delhi     | 204.26          | 
@@ -319,7 +317,7 @@ For Tier 1 cities Basic and Medium plans can be pitched and for tier 2 cities me
 | Chennai   | 73.83           | 
 | Bengaluru | 73.28           | 
 
-####  <p align="center">TIER 2 CITIES </p>
+###  <p align="center">TIER 2 CITIES </p>
 
 | Area            | Average AQI | Area               | Average AQI |
 | --------------- | ----------- | ------------------ | ----------- |
@@ -365,9 +363,9 @@ For Tier 1 cities Basic and Medium plans can be pitched and for tier 2 cities me
 | Mysuru          | 50.55       | Puducherry         | 56.46       |
 
 
-####  <p align="center">Priority Cities: Which Tier 1/2 cities show irreversible AQI degradation? </p>
+###  <p align="center">Priority Cities: Which Tier 1/2 cities show irreversible AQI degradation? </p>
 
-It shows cities with worst AQI which is irreversible. 
+It shows cities with Irre. 
 
 | Area       | Average AQI | Tier Type |
 | ---------- | ----------- | --------- |
@@ -386,12 +384,23 @@ It shows cities with worst AQI which is irreversible.
 | Bikaner    | 403         | Tier 2    |
 
 
-####  <p align="center">Health Burden:How do AQI spikes correlate with pediatric asthma admissions? </p>
+###  <p align="center">Health Burden:How do AQI spikes correlate with pediatric asthma admissions? </p>
 
 Only diseases related to asthma and respiratory conditions are considered below.
 The data suggests that as AQI values increase, there can be a rise in cases of measles, diphtheria, and swine flu.
 Although these diseases are not directly caused by poor air quality, it can be inferred that a polluted environment with toxic air pollutants worsens the AQI, which may contribute to increased vulnerability and severity of such diseases.
 
-<img width="1242" height="686" alt="image" src="https://github.com/user-attachments/assets/02260a26-8b86-4278-95d2-45821a54d45a" />
+<img width="600" height="686" alt="image" src="https://github.com/user-attachments/assets/02260a26-8b86-4278-95d2-45821a54d45a" />
 
+At last we can conclude that, an Airpure Innovations should focus on developing air purifier which has 
+1. Focus on PM2.5 and PM10 and other household pollutants.
+2. There most essentails feature should be a Real Time AQI (Numeric value), Vocs sensors, a Anti-Bacterial filters, allergen filters and a filter replacement alerts, PM2.5 value indicator. 
+3. Delhi NCR, Bengaluru and Mumbai mainly most metropolitan cities demands air purifiers also the above table of priority cities can be consider too.
+
+### **Resources**
+- Google Trends 
+- Goverment of Indian sites for pollution control policies
+- [Codebascis](https://codebasics.io/challenges/codebasics-resume-project-challenge/20)
+- [Dataful](https://dataful.in/)
+  
 
