@@ -365,7 +365,7 @@ For Tier 2 cities Basic and Medium products can be pitched and for Tier 1 cities
 
 ###  <p align="center">Priority Cities: Which Tier 1/2 cities show irreversible AQI degradation? </p>
 
-It shows cities with Irre. 
+It shows cities with Irreversible AQI level. 
 
 | Area       | Average AQI | Tier Type |
 | ---------- | ----------- | --------- |
